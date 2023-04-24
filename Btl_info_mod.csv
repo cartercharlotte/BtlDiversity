@@ -1,0 +1,91 @@
+fastaName,Btl,Repeat_no,StartAA,PseudoRepeat,FirstRepeat,LastRepeat,NLS,Complete,RVDs,Source,Species
+Btl19_13,Btl19_13,19,m,HY,YD,N*,RIRK,Yes,yd nd ni nd nn ni ng ng ** nd nn nn ns ng ng nn nn ni n*,NCBI,M. endofungorum
+Btl21_1,Btl21_1,21,m,QY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nn nd ni ni nt nr ns nd nn ng ng ns n*,NCBI,M. rhizoxinica
+Btl28_1,Btl28_1,28,m,HY,YD,N*,RIRK,Yes,yd ng ** nn ng ** nn ni ns ni ns ni nn ng ** nk na ni ns ni ni ni nd ns ng kg nt n*,NCBI,M. rhizoxinica
+Btl7_1,Btl7_1,7,m,HS,HD,Other,QIRK,Yes,hd ng ni ng ng ng nn,NCBI,M. rhizoxinica
+Btl15_14c,Btl15_14c,15,m,HY,YD,N*,RIRK,Yes,yd nd ni ni ng ** nd nn nn ns ng ng nn ni n*,NCBI,M. endofungorum
+Btl15_14p,Btl15_14p,15,m,HY,YD,Other,RIRK,Yes,yd ng ng ng ng ni ni ni ni ni ni sg nn nn ni,NCBI,M. endofungorum
+Btl18_14,Btl18_14,18,m,HY,YD,N*,RIRK,Yes,yd ng ni ni ng ** nd nd ni ns nn ns ng ng nn nn ni n*,NCBI,M. endofungorum
+Btl21_12,Btl21_12,21,m,QY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nn nd ni ni ni nr ns nd nn ng ng ns n*,PacBio,M. rhizoxinica
+Btl8_12,Btl8_12,8,m,HS,HD,Other,QIRK,Yes,hd ng ng ig ng ng ng ns,PacBio,M. rhizoxinica
+Btl28_12,Btl28_12,28,m,HY,YD,N*,RIRK,Yes,yd ng ** nn ng ** nn ni ns ni ns ni nn ng ** nk na ni ns ni ni ni ng ns ng kg nt n*,PacBio,M. rhizoxinica
+Btl8_3,Btl8_3,8,m,HY,YD,N*,RIRK,Yes,yd ng nn ng nd ni ni n*,PacBio,M. endofungorum
+Btl18_47,Btl18_47,18,m,HY,YD,N*,RIRK,Yes,yd nd ni ni ng ** nd nd ns ns nn ns ng ng nn nn ni n*,PacBio,M. rhizoxinica
+Btl13_47,Btl13_47,13,m,HY,YD,Other,RIRK,Yes,yd ng nn ng nd ni ni ni ni sg nn nn ni,PacBio,M. rhizoxinica
+Btl21_47,Btl21_47,21,m,QY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nn nd ni ni ni nr ns nd nn ng ng nt n*,PacBio,M. rhizoxinica
+Btl21_49,Btl21_49,21,m,QY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nn nd ni ni nt nr ns nd nn ng ng ns n*,PacBio,M. rhizoxinica
+Btl28_49,Btl28_49,28,m,HY,YD,N*,RIRK,Yes,yd ng ** nn ng ** nn ni ns ni ns ni nn ng ** nk na ni ns ni ni ni ng ns ng kg nt n*,PacBio,M. rhizoxinica
+Btl20_60,Btl20_60,20,m,HY,YD,N*,RIRK,Yes,yd ng nd ni nd nn ni ng ng ** nd nn ni ni ng ng nn nn nv n*,PacBio,M. endofungorum
+Btl14_60,Btl14_60,14,m,HY,YD,Other,RIRK,Yes,yd ng ng ng ng ni ni ni ni sg nn nn ni nn,PacBio,M. endofungorum
+Btl21_6 : MN840537_QOC69119_Bat1_HKI513_6,Btl21_6,21,m,QY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nn nd ni ni nt nr ns nd nn ng ng ns n*,NCBI,M. rhizoxinica
+BtlA_8 : MN840541_QOC69123_Bat1_HKI404_8,BtlA_8,6,m,None,NA,N*,RIRK,No,ni ni ng ng nv n*,NCBI,M. sp.
+Btl28_2 : MN840542_QOC69124_Bat2_HKI512_2,Btl28_2,28,m,HY,YD,N*,RIRK,Yes,yd ng ** nn ng ** nn ni ns ni ns ni nn ng ** nk na ni ns ni ni ni nd ns ng kg nt n*,NCBI,M. sp.
+Btl28_6 : MN840543_QOC69125_Bat2_HKI513_6,Btl28_6,28,m,HY,YD,N*,RIRK,Yes,yd ng ** nn ng ** nn ni ns ni ns ni nn ng ** nk na ni ns ni ni ni nd ns ng ng nt n*,NCBI,M. rhizoxinica
+Btl7_2 : MN840547_QOC69129_Bat3_HKI513_2,Btl7_2,7,m,HS,HD,Other,QIRK,Yes,hd ng ni ng ng ng nn,NCBI,M. sp.
+Btl7_6 : MN840546_QOC69128_Bat3_HKI513_6,Btl7_6,7,m,HS,HD,Other,QIRK,Yes,hd ng ni ng ng ng nn,NCBI,M. rhizoxinica
+Btl8_80 : IMI_266680_metscf_2081_1,Btl8_80,8,m,HS,HD,Other,QIRK,Yes,hd nd ns ng ni ng nn nn,ZygoLife,M. endofungorum
+BtlA_34 : NRRL_2934_metscf_3_1,BtlA_34,21,m,QY,YD,NA,None,No,yd ni ni nn nt nn ni ni nn nd ni ni nt nr ns nd nn ng ng ns n*,ZygoLife,M. rhizoxinica
+Btl21_47 : NRRL_5547_metscf_390_1,Btl21_47,21,m,QY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nn nd ni ni ni nr ns nd nn ng ng nt n*,ZygoLife,M. rhizoxinica
+Btl19_48 : NRRL_5548_metscf_80_1,Btl19_48,19,m,QY,CD,N*,RIRK,Yes,cd ni ne ng nn ni ni nn ni ni nn nn ns nn ni nd ng nt n*,ZygoLife,M. rhizoxinica
+Btl11_51 : NRRL_5551_metscf_1_1,Btl11_51a,11,m,HY,YD,N*,RIRK,Yes,yd ng nd nn nn ns ng ng nn ni n*,ZygoLife,M. sp.
+Btl28_52 : NRRL_5552_metscf_1_1,Btl28_52,28,m,HY,YD,N*,RIRK,Yes,yd ng ** nn ng ** nn ni ns ni ns ni nn ng ** nk na ni ns ni ni ni ng ns ng kg nt n*,ZygoLife,M. rhizoxinica
+BtlA_53 : NRRL_5553_metscf_22_1,BtlA_53,8,m,None,NA,N*,RIRK,No,ni ns ng ng nn nn nv n*,ZygoLife,M. endofungorum
+Btl10_58 : NRRL_5558_metscf_42_1,Btl10_58,10,m,HS,HD,Other,QIRK,Yes,hd nd ng ng ni ng ni ng ng nn,ZygoLife,M. rhizoxinica
+Btl19_23 : NRRL_62023_metscf_18_1,Btl19_23,19,m,QY,YD,N*,RIRK,Yes,yd ni de ng nn ni ni nn ni ni nn nn ns nn ni nd ng nt n*,ZygoLife,M. endofungorum
+BtlA_75 : NRRL_66675_metscf_3126_1,BtlA_75,3,m,HS,HD,NA,None,No,hd nd ng,ZygoLife,M. endofungorum
+Btl19_91 : NRRL_A-11791_metscf_238_1,Btl19_91,19,m,QY,CD,N*,RIRK,Yes,cd ni ne ng nn ni ni nn ni ni nn nn ns nn ni nd ng nt n*,ZygoLife,M. rhizoxinica
+Btl9_80 : IMI_266680_metscf_2488_2,Btl9_80,9,m,HY,YD,Other,RIRK,Yes,yd nd ni ng ng ni ni nn ni,ZygoLife,M. endofungorum
+Btl21_48 : NRRL_5548_metscf_80_2,Btl21_48,21,m,QY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nn nd ni ni ni nr ns nd nn ng ng ns n*,ZygoLife,M. rhizoxinica
+Btl21_50 : NRRL_5550_metscf_491_2,Btl21_50,21,m,QY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nn nd ni ni nt nr ns nd nn ng ng ns n*,ZygoLife,M. rhizoxinica
+Btl19_52 : NRRL_5552_metscf_373_2,Btl19_52,19,m,QY,CD,N*,RIRK,Yes,cd ni ne ng nn ni ni nn ni ni nn nn ns nn ni nd ng nt n*,ZygoLife,M. rhizoxinica
+Btl12_53 : NRRL_5553_metscf_612_2,Btl12_53,12,m,HY,HD,Other,QIRK,Yes,hd nd ni nd nn ni ng ng ** nd ng nd,ZygoLife,M. endofungorum
+Btl19_58 : NRRL_5558_metscf_42_2,Btl19_58,19,m,HY,YD,N*,RIRK,Yes,yd ng ** nn nn ng ** nk na ni ns ni ni n* ns ng kg nt n*,ZygoLife,M. rhizoxinica
+Btl10_76 : NRRL_A-11376_metscf_3674_2,Btl10_76,10,m,HY,YD,Other,RIRK,Yes,yd ng ni ni ni ni sg nn nn ni,ZygoLife,M. endofungorum
+Btl21_52 : NRRL_5552_metscf_512_3,Btl21_52,21,m,QY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nn nd ni ni ni nr ns nd nn ng ng ns n*,ZygoLife,M. rhizoxinica
+Btl8_76 : NRRL_A-11376_metscf_3854_3,Btl8_76,8,m,HS,HD,Other,QIRK,Yes,hd nd ns ng ni ng nn nn,ZygoLife,M. endofungorum
+Btl20_82 : NRRL_2582_metscf_868_4,Btl20_82,20,m,HY,YD,N*,RIRK,Yes,yd ni ni nn nt nn ni ni nd ni ni nn nr ns nd nn ng ng ns n*,ZygoLife,M. rhizoxinica
+Btl10_82 : NRRL_2582_metscf_1481_5,Btl10_82,10,m,HS,HD,Other,QIRK,Yes,hd ng ig ni ng ni ng ng ng nn,ZygoLife,M. rhizoxinica
+Btl11_51 : NRRL_5551_metscf_563_5,Btl11_51b,11,m,HS,HD,Other,QIRK,Yes,hd ng ng ig ni ng ni ng ng ng nn,ZygoLife,M. sp.
+Btl25_82 : NRRL_2582_metscf_1481_6,Btl25_82,25,m,HY,YD,N*,RIRK,Yes,yd ng ** nn ng nn ni ns ni ns ni nn ng ** nk na ni ns ni ni nd ns ng nt n*,ZygoLife,M. rhizoxinica
+Btl19_51 : NRRL_5551_metscf_719_6,Btl19_51,19,m,QY,YD,N*,RIRK,Yes,yd ni de ng nn ni ni nn ni ni nn nn ns nn ni nd ng nt n*,ZygoLife,M. sp.
+BtlA_91 : NRRL_A-11791_metscf_975_6,BtlA_91,4,m,HY,YD,NA,None,No,yd nd nd ng,ZygoLife,M. rhizoxinica
+Btl19_34 : BC1034_metscf_1024_1,Btl19_34,19,m,NY,HD,N*,RIRK,Yes,hd hd hd ng hd nn ns nn hd ni ni ns hd ni rg ng ns ng n*,ZygoLife,Unknown
+BtlA_73 : NRRL_3373_metscf_8954_2,BtlA_73,9,a,None,NA,NA,None,No,ni ni nn nn ns nn ni nd ng,ZygoLife,Unknown
+BtlB_73 : NRRL_3373_metscf_8954_1,BtlB_73,2,g,None,NA,NA,None,No,nn nm,ZygoLife,Unknown
+BtlA_82 : NRRL_2582_metscf_4_1,BtlA_82,12,s,None,NA,N*,RIRK,No,ng ng ** nd ** nd ns ni ni ni nv n*,ZygoLife,M. rhizoxinica
+BtlA_50 : NRRL_5550_metscf_2_1,BtlA_50,19,m,HY,YD,NA,None,No,yd ng ** nn ng ** nn ni ns ni ns ni nn ng ** nk na ni ns,ZygoLife,M. rhizoxinica
+BtlA_54 : NRRL_5554_metscf_10_1,BtlA_54,8,m,HY,YD,NA,None,No,yd nd nn ni ng ng ng nn,ZygoLife,M. endofungorum
+BtlA_76 : NRRL_A-11376_metscf_3674_1,BtlA_76,3,m,HY,YD,NA,None,No,yd nd ni,ZygoLife,M. endofungorum
+BtlA_79 : NRRL_A-21579_metscf_1836_1,BtlA_79,10,m,None,NA,NA,None,No,nd ni ng ** ng nd nn ns ng ng,ZygoLife,M. endofungorum
+BtlA_24 : NRRL_A-26124_metscf_6532_1,BtlA_24,9,m,QY,YD,NA,None,No,yd ni nn nt nn ni ni nn ni,ZygoLife,Unknown
+BtlA_23 : NRRL_62023_metscf_787_2,BtlA_23,12,a,None,NA,NA,None,No,nd nd nn ng ng ** nd ** nd ns ng ng,ZygoLife,M. endofungorum
+BtlB_23 : NRRL_62023_metscf_787_2,BtlB_23,4,t,None,NA,N*,RIRK,No,ns nn nv n*,ZygoLife,M. endofungorum
+BtlB_82 : NRRL_2582_metscf_441_2,BtlB_82,6,m,HY,YD,NA,None,No,yd nd ni nd nn ni,ZygoLife,M. rhizoxinica
+BtlA_47 : NRRL_5547_metscf_670_2,BtlA_47,5,r,None,NA,Other,RIRK,No,ni sg nn nn ni,ZygoLife,M. rhizoxinica
+BtlA_51 : NRRL_5551_metscf_332_2,BtlA_51,7,g,None,NA,Other,RIRK,No,ni ni ni sg nn ni nn,ZygoLife,M. sp.
+BtlB_54 : NRRL_5554_metscf_1151_2,BtlB_54,12,a,None,NA,Other,RIRK,No,ng nn ng ng ni ni ni ni sg nn nn ni,ZygoLife,M. endofungorum
+BtlB_75 : NRRL_66675_metscf_3252_2,BtlB_75,8,a,None,NA,NA,None,No,** ng nd nn ns ng ng ni,ZygoLife,M. endofungorum
+BtlB_91 : NRRL_A-11791_metscf_419_2,BtlB_91,6,m,HY,YD,NA,None,No,yd ns nn ng nd ni,ZygoLife,M. rhizoxinica
+BtlB_51 : NRRL_5551_metscf_332_3,BtlB_51,8,m,HY,YD,NA,None,No,yd nd ni ni ng ** ng nd,ZygoLife,M. sp.
+BtlC_54 : NRRL_5554_metscf_1151_3,BtlC_54,3,m,HY,YD,NA,None,No,yd nd ni,ZygoLife,M. endofungorum
+BtlD_54 : NRRL_5554_metscf_1151_4,BtlD_54,6,a,None,NA,NA,None,No,ng ** nd ns ng ng,ZygoLife,M. endofungorum
+BtlB_47 : NRRL_5547_metscf_670_3,BtlB_47,9,m,HY,YD,NA,None,No,yd nd ni ni ng ** nd ns nn,ZygoLife,M. rhizoxinica
+BtlB_50 : NRRL_5550_metscf_760_3,BtlB_50,8,g,None,NA,N*,RIRK,No,ni ni ng ns ng kg nt n*,ZygoLife,M. rhizoxinica
+BtlC_75 : NRRL_66675_metscf_3749_3,BtlC_75,6,a,None,NA,NA,None,No,ni ni sg nn nn ni,ZygoLife,M. endofungorum
+BtlC_91 : NRRL_A-11791_metscf_574_3,BtlC_91,9,a,None,NA,N*,RIRK,No,ni ni ns ng ng ns nn nv n*,ZygoLife,M. rhizoxinica
+BtlC_51 : NRRL_5551_metscf_332_4,BtlC_51,10,a,None,NA,N*,RIRK,No,ns ns nn ns ng ng nn nn ni n*,ZygoLife,M. sp.
+BtlC_47 : NRRL_5547_metscf_718_4,BtlC_47,6,m,HY,YD,NA,None,No,yd ng nn ng nd ni,ZygoLife,M. rhizoxinica
+BtlD_51 : NRRL_5551_metscf_435_5,BtlD_51,5,m,HY,YD,NA,None,No,yd ng ng ng ni,ZygoLife,M. sp.
+BtlB_76 : NRRL_A-11376_metscf_8365_4,BtlB_76,9,r,None,NA,NA,None,No,ni ng ** nd nd nn ns ng ng,ZygoLife,M. endofungorum
+BtlD_91 : NRRL_A-11791_metscf_777_4,BtlD_91,7,f,None,NA,N*,RIRK,No,ni ns ng ni nd nt n*,ZygoLife,M. rhizoxinica
+BtlD_47 : NRRL_5547_metscf_902_5,BtlD_47,7,r,None,NA,N*,RIRK,No,ns ng ng nn nn ni n*,ZygoLife,M. rhizoxinica
+BtlE_91 : NRRL_A-11791_metscf_788_5,BtlE_91,7,v,None,NA,N*,RIRK,No,nd ni ng ns ng nt n*,ZygoLife,M. rhizoxinica
+BtlF_91 : NRRL_A-11791_metscf_1248_7,BtlF_91,8,c,None,NA,NA,None,No,ng ** nn ng ** nn ni ns,ZygoLife,M. rhizoxinica
+BtlG_91 : NRRL_A-11791_metscf_1358_8,BtlG_91,7,e,None,NA,NA,None,No,nn ng ng ** nn ni nn,ZygoLife,M. rhizoxinica
+BtlA_14 : NRRL_1514_metscf_713_1,BtlA_14,6,m,HS,HD,NA,None,No,hd ng ni ng ng ng,ZygoLife,M. rhizoxinica
+BtlB_14 : NRRL_1514_metscf_1016_2,BtlB_14,14,m,HY,YD,NA,None,No,yd ng ** nn ng ** nn ni ng ns ni nd ns ng,ZygoLife,M. rhizoxinica
+BtlA_80 : IMI_266680_metscf_3126_1,BtlA_80,9,a,None,NA,NA,None,No,** ng ng nn ns ng ng nn nn,ZygoLife,M. endofungorum
+BtlC_82 : NRRL_2582_metscf_441_3,BtlC_82,5,m,HY,YD,NA,None,No,yd nn ng nd ni,ZygoLife,M. rhizoxinica
+BtlD_82 : NRRL_2582_metscf_441_4,BtlD_82,8,g,None,NA,N*,RIRK,No,ni ni ns ng ni nd nn n*,ZygoLife,M. rhizoxinica
+BtlA_11 : BC1034_11,BtlA_11,10,m,None,NA,NA,None,No,nh kg nh nn ni kg nk kd nk hi,ZygoLife,Unknown
+BtlB_79 : BC1015_1979,BtlB_79,6,h,None,NA,NA,None,No,nk nn ni kg nk hi,ZygoLife,Unknown
