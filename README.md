@@ -3,7 +3,7 @@ This repository contains the scripts `BtlRVDFinder.R` and `BtlPhylogeneticVisual
 
 ### Reference
 ```
-Carter et al. 2023
+Carpenter et al. (2023) "Prevalence and diversity of TAL effector-like proteins in fungal endosymbiotic Mycetohabitans spp". bioRxiv. https://doi.org/10.1101/2023.10.16.562584
 ```
 ### Btl Motif Calling and Naming
 The `BtlRVDFinder.R` script takes a fasta file of amino acids sequences that are putative Btl proteins as input. It identifies key motifs and extracts the RVD sequences. Based on the presence or absence of motifs, it determines whether the protein is incomplete and gives it a name. The output files are fasta files of amino acid sequences with new names, a limited set of only complete proteins, and RVD sequences. There is also a table containing information about the motifs (`Btl_info.csv`) that was then further modified by hand to contain the sequence sources and make changes to the names after manual curation (`Btl_info_mod.csv`).
